@@ -49,7 +49,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="c:/logs/PHP-7.1-x64_error.log" />
+            <configuration_option name="error_log" value="c:/eye/php_error.log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="22519" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -79,7 +79,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".;c:/php;c:/php/PEAR/pear" />
+            <configuration_option name="include_path" value=".;C:\php\pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="log_errors" value="1" />
